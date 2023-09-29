@@ -4,9 +4,9 @@
   grid-auto-columns:7fr;
 	grid-auto-row:6fr;
     
-  gap: 10px;
+  gap: 5px;
   background-color:white;
-  padding: 5px;
+  padding: 0px;
 	color:white;
 	text-align:justify;
 
@@ -14,7 +14,7 @@
 .grid>div{
   background-color:green;
   text-align:right;
-  padding: 5px 0;
+  padding: 0px 0;
   font-size: 30px;
 }
 .item1 {
